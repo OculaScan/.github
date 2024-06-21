@@ -1,7 +1,7 @@
 # Judul Project 
 
 OculaScan: Innovating Medical Case Classification of Eye Diseases with Web-Based Image Classification Implementation
-[Homepage.png](https://github.com/OculaScan/.github/blob/cf47cf8d3dcc994ac3fdfd6e7200742d5494ab1a/Homepage.png)
+![Alt text](https://github.com/OculaScan/.github/blob/cf47cf8d3dcc994ac3fdfd6e7200742d5494ab1a/Homepage.png)
 
 # Latar Belakang 
 
