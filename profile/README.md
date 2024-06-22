@@ -6,8 +6,7 @@ OculaScan: Innovating Medical Case Classification of Eye Diseases with Web-Based
 
 # Latar Belakang 
 
-Keterbatasan tenaga medis spesialis mata di Indonesia, khususnya di daerah terpencil menjadi tantangan dalam akses diagnosis dini penyakit mata. Hal ini dapat menyebabkan keterlambatan dalam penanganan dini pada kesehatan mata pasien. Project OcuScan dibuat dengan tujuan untuk membuat inovasi dalam menganalisa penyakit mata menggunakan implementasi klasifikasi gambar berbasis web, dengan harapan bahwa dapat meningkatkan akurasi dan efisiensi diagnosis penyakit mata serta dapat membantu dokter memberikan penangan yang cepat dengan hasil yang lebih baik. 
-Dengan hadirnya project ini, dokter umum atau tenaga medis di daerah terpencil dapat menggunakan kamera untuk mengambil gambar mata pasien dan kemudian diunggah ke dalam sistem OculaScan. Sistem akan memproses gambar menggunakan algoritma klasifikasi dan memberikan hasil prediksi ditertai tingkat akurasi dugaan penyakit mata yang diderita pasien.
+The OcuScan project was developed to address the challenge of limited access to eye care specialists in remote areas of Indonesia. The project uses a web-based image classification system to analyze eye diseases, with the goal of improving the accuracy and efficiency of diagnosis. Through this project, general practitioners or medical personnel in remote areas can use a camera to capture images of patients' eyes, which are then uploaded to the OcuScan system. The system processes the images using a classification algorithm and provides a prediction of the suspected eye disease, along with the level of accuracy. This innovative approach enables faster diagnosis and treatment, ensuring that patients in remote areas receive appropriate care for their eye conditions.
 
 # Anggota Kelompok
 | Learning Path | Name | NIM | University | Major
